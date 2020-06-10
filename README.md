@@ -11,3 +11,5 @@ output-data/IGMPanelLinks.csv - output of above .ipynb file Section 1
 output-data/answers.csv - output of above .ipynb file Section 2; panel question and answer data in tidy form
 
 output-data/answersAsColumns.csv - output of above .ipynb file Section 2; panel question and answer data in pivot form
+
+hierarchical-clustering.ipynb - compute clusters and creates a dendrogram
